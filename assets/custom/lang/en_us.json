@@ -1,0 +1,18 @@
+{
+  "gui.0": "\u0030",
+  "gui.1": "\u0031",
+  "gui.2": "\u0032",
+  "gui.3": "\u0033",
+  "gui.4": "\u0034",
+  "gui.5": "\u0035",
+  "gui.6": "\u0036",
+  "gui.7": "\u0037",
+  "gui.8": "\u0038",
+  "gui.9": "\u0039",
+  "gui.solidus": "\u005C",
+  "gui.bunch": "\uE001",
+  "gui.bunch.nextPage": "\uE002",
+  "gui.bunch.previousPage": "\uE003",
+  "gui.bunch.bothPageScrolling": "\uE004",
+  "gui.confirmation": "\uE010"
+}

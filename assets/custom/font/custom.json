@@ -1,0 +1,116 @@
+{
+    "providers": [
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/zero.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0030"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/one.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0031"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/two.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0032"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/three.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0033"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/four.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0034"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/five.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0035"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/six.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0036"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/seven.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0037"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/eight.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0038"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/nine.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u0039"]
+        },
+		{
+            "type": "bitmap",
+			"file": "custom:ui/chars/solidus.png",
+            "ascent": -100,
+            "height": 8,
+            "chars": ["\u005C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/keys_bunch/main.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE001"]
+        },
+		{
+            "type": "bitmap",
+            "file": "custom:ui/keys_bunch/buttons/next_page.png",
+            "ascent": -98,
+            "height": 64,
+            "chars": ["\uE002"]
+        },
+		{
+            "type": "bitmap",
+            "file": "custom:ui/keys_bunch/buttons/previous_page.png",
+            "ascent": -98,
+            "height": 64,
+            "chars": ["\uE003"]
+        },
+		{
+            "type": "bitmap",
+            "file": "custom:ui/keys_bunch/buttons/both_page_scrolling_buttons.png",
+            "ascent": -98,
+            "height": 128,
+            "chars": ["\uE004"]
+        },
+		{
+            "type": "bitmap",
+            "file": "custom:ui/confirmation/main.png",
+            "ascent": 13,
+            "height": 53,
+            "chars": ["\uE010"]
+        }
+    ]
+}

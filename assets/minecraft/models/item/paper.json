@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/paper"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom:item/empty"},
+		{ "predicate": { "custom_model_data": 11 }, "model": "custom:ui/bunch_gui/buttons/add_player"},
+		{ "predicate": { "custom_model_data": 12 }, "model": "custom:ui/bunch_gui/buttons/back_to_main_menu"},
+		{ "predicate": { "custom_model_data": 13 }, "model": "custom:ui/bunch_gui/buttons/list_of_player"},
+		{ "predicate": { "custom_model_data": 14 }, "model": "custom:ui/bunch_gui/buttons/set_lore"},
+		{ "predicate": { "custom_model_data": 15 }, "model": "custom:ui/bunch_gui/buttons/set_name"}
+	]
+}

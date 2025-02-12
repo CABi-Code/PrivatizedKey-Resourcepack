@@ -1,0 +1,44 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/stick"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2001 }, "model": "custom:item/key"},
+		
+		{ "predicate": { "custom_model_data": 2011 }, "model": "custom:item/unique_keys/key_chest"},
+		{ "predicate": { "custom_model_data": 2012 }, "model": "custom:item/unique_keys/key_chest_new"},
+		{ "predicate": { "custom_model_data": 2013 }, "model": "custom:item/unique_keys/key_furnace"},
+		{ "predicate": { "custom_model_data": 2014 }, "model": "custom:item/unique_keys/key_furnace_new"},
+		{ "predicate": { "custom_model_data": 2015 }, "model": "custom:item/unique_keys/key_smoker"},
+		{ "predicate": { "custom_model_data": 2016 }, "model": "custom:item/unique_keys/key_smoker_new"},
+		{ "predicate": { "custom_model_data": 2017 }, "model": "custom:item/unique_keys/key_blast_furnace"},
+		{ "predicate": { "custom_model_data": 2018 }, "model": "custom:item/unique_keys/key_blast_furnace_new"},
+		{ "predicate": { "custom_model_data": 2019 }, "model": "custom:item/unique_keys/key_dispenser"},
+		{ "predicate": { "custom_model_data": 2020 }, "model": "custom:item/unique_keys/key_dispenser_new"},
+		{ "predicate": { "custom_model_data": 2021 }, "model": "custom:item/unique_keys/key_dropper"},
+		{ "predicate": { "custom_model_data": 2022 }, "model": "custom:item/unique_keys/key_dropper_new"},
+		{ "predicate": { "custom_model_data": 2023 }, "model": "custom:item/unique_keys/key_barrel"},
+		{ "predicate": { "custom_model_data": 2024 }, "model": "custom:item/unique_keys/key_barrel_new"},
+		{ "predicate": { "custom_model_data": 2025 }, "model": "custom:item/unique_keys/key_hopper"},
+		{ "predicate": { "custom_model_data": 2026 }, "model": "custom:item/unique_keys/key_hopper_new"},
+		{ "predicate": { "custom_model_data": 2027 }, "model": "custom:item/unique_keys/key_brewing_stand"},
+		{ "predicate": { "custom_model_data": 2028 }, "model": "custom:item/unique_keys/key_brewing_stand_new"},
+		{ "predicate": { "custom_model_data": 2029 }, "model": "custom:item/unique_keys/key_shulker"},
+		{ "predicate": { "custom_model_data": 2030 }, "model": "custom:item/unique_keys/key_shulker_new"},
+		{ "predicate": { "custom_model_data": 2031 }, "model": "custom:item/unique_keys/key_door"},
+		{ "predicate": { "custom_model_data": 2032 }, "model": "custom:item/unique_keys/key_door_new"},
+		{ "predicate": { "custom_model_data": 2033 }, "model": "custom:item/unique_keys/key_trapdoor"},
+		{ "predicate": { "custom_model_data": 2034 }, "model": "custom:item/unique_keys/key_trapdoor_new"},
+		{ "predicate": { "custom_model_data": 2035 }, "model": "custom:item/unique_keys/key_gate"},
+		{ "predicate": { "custom_model_data": 2036 }, "model": "custom:item/unique_keys/key_gate_new"},
+		
+		{ "predicate": { "custom_model_data": 2101 }, "model": "custom:item/key_master"},
+		
+		{ "predicate": { "custom_model_data": 2112 }, "model": "custom:item/bunch/inactive"},
+		{ "predicate": { "custom_model_data": 2113 }, "model": "custom:item/bunch/empty"},
+		{ "predicate": { "custom_model_data": 2114 }, "model": "custom:item/bunch/low"},
+		{ "predicate": { "custom_model_data": 2115 }, "model": "custom:item/bunch/medium"},
+		{ "predicate": { "custom_model_data": 2116 }, "model": "custom:item/bunch/full"}
+	]
+}
