@@ -14,5 +14,6 @@
   "gui.bunch.nextPage": "\uE002",
   "gui.bunch.previousPage": "\uE003",
   "gui.bunch.bothPageScrolling": "\uE004",
-  "gui.confirmation": "\uE010"
+  "gui.confirmation": "\uE010",
+  "gui.players": "\uE020"
 }

@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/player_head",
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [1, 0, 0],
+            "translation": [0, 6.8, 0],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	}
+}
