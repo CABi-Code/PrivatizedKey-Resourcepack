@@ -1,0 +1,3 @@
+git pull
+echo Press Enter...
+pause
