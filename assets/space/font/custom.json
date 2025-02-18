@@ -1,0 +1,44 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "space:font/splitter.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [ "\uEF00" ],
+      "shift": [0, 0]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/splitter.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [ "\uEF01" ],
+      "shift": [-5, -8]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/splitter.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [ "\uEF02" ],
+      "shift": [-10, -16]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/splitter.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [ "\uEF03" ],
+      "shift": [-10, -8]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/splitter.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [ "\uEF04" ],
+      "shift": [-5, -16]
+    }
+  ]
+}

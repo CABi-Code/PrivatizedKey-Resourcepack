@@ -2,7 +2,12 @@
     "newlayer": "󀀀",
     "space.-infinity": "󀀁",
     "space.infinity": "󟿿",
-	"ascent.-10": "\uE500"
+	"ascent.-10": "\uE500",
+	"offset.-0.-0": "\uEF00",
+    "offset.-5.-8": "\uEF01",
+    "offset.-10.-16": "\uEF02",
+    "offset.-10.-8": "\uEF03",
+    "offset.-5.-16": "\uEF04",
     "space.-max": "󎀀",
     "space.-8192": "󎀀",
     "space.-8191": "󎀁",
