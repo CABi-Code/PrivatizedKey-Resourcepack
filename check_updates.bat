@@ -21,3 +21,4 @@ if not "%LOCAL_COMMIT%"=="%LATEST_COMMIT%" (
 
 timeout /t 5 /nobreak >nul
 goto loop
+pause
