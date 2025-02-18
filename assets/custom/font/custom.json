@@ -1,5 +1,6 @@
 {
-    "providers": [
+
+	"providers": [
 		{
             "type": "bitmap",
 			"file": "custom:ui/chars/zero.png",
@@ -111,6 +112,13 @@
             "ascent": 13,
             "height": 53,
             "chars": ["\uE010"]
+        },
+		{
+            "type": "bitmap",
+            "file": "custom:ui/players/main.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE020"]
         }
     ]
 }
